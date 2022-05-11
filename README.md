@@ -1,0 +1,2 @@
+# simulacionRedsocial
+Creacion red social 
